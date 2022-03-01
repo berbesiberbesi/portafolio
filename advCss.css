@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+img{
+   width: 50%;
+}
+table, th, td{
+    border: 2px solid red;
+}
+.table-center{
+    margin: 0 50%;
+}
