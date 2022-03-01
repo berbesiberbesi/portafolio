@@ -1,0 +1,57 @@
+body {
+    background-color: #DFF6FF;
+    color: #495371;
+    margin: auto;
+    text-align: center;
+}
+hr{
+    border: dotted #6597BD 3px;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+}
+h1{
+    color: rgb(87, 128, 160);
+    font-family: sacramento, Arial, sans-serif;
+    font-size: 4rem;
+}
+
+h3{
+    color: rgb(101, 151, 189);
+    font-family: Merriweather, arial, sans-serif;
+    
+}
+a {
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px 20px;
+    text-decoration: none;
+    color: rgb(52, 76, 94);
+}
+a:hover{
+    color: rgb(173, 207, 233);
+}
+.subtitle{
+    font-size: 1.6rem;
+    font-weight: bolder;
+}
+.icons{
+    width: 100px;
+    height: 100px;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+}
+.bottom{
+    background-color: #6597BD;
+    padding: 20px 25px;
+}
+
+
+.copy-right{
+    color: white;
+}
+
+.projects{
+    margin-bottom: 100px;;
+}
